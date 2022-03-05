@@ -1,5 +1,17 @@
 # Prerequisites
 *.d
+*.db*
+*.bin
+*.log
+*.vcxproj
+*.cmake
+*.sln
+*ipch
+*.opendb
+CMakeFiles/
+*.txt
+*.TXT
+*.filters
 
 # Compiled Object files
 *.slo
