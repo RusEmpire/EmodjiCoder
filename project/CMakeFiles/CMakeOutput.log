@@ -9,7 +9,7 @@ The output was:
 Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
-Сборка начата 05.03.2022 22:39:17.
+Сборка начата 05.03.2022 22:52:31.
 Проект "C:\Users\teoru\_projects\.MY_PRJ\EmodjiCoder\project\CMakeFiles\3.20.3\CompilerIdC\CompilerIdC.vcxproj" в узле 1 (целевые объекты по умолчанию).
 PrepareForBuild:
   Создание каталога "Debug\".
@@ -35,7 +35,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:02.95
+Прошло времени 00:00:01.12
 
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -54,7 +54,7 @@ The output was:
 Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
-Сборка начата 05.03.2022 22:39:21.
+Сборка начата 05.03.2022 22:52:33.
 Проект "C:\Users\teoru\_projects\.MY_PRJ\EmodjiCoder\project\CMakeFiles\3.20.3\CompilerIdCXX\CompilerIdCXX.vcxproj" в узле 1 (целевые объекты по умолчанию).
 PrepareForBuild:
   Создание каталога "Debug\".
@@ -80,7 +80,7 @@ FinalizeBuildStatus:
     Предупреждений: 0
     Ошибок: 0
 
-Прошло времени 00:00:01.68
+Прошло времени 00:00:00.89
 
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -92,28 +92,28 @@ The CXX compiler identification is MSVC, found in "C:/Users/teoru/_projects/.MY_
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: C:/Users/teoru/_projects/.MY_PRJ/EmodjiCoder/project/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/.Microsoft Visual Studio/MSBuild/Current/Bin/MSBuild.exe cmTC_04c49.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
+Run Build Command(s):E:/.Microsoft Visual Studio/MSBuild/Current/Bin/MSBuild.exe cmTC_5c25b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30138 для x64
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
   CMakeCCompilerABI.c
-  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_04c49.dir\Debug\\" /Fd"cmTC_04c49.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCCompilerABI.c"
-  cmTC_04c49.vcxproj -> C:\Users\teoru\_projects\.MY_PRJ\EmodjiCoder\project\CMakeFiles\CMakeTmp\Debug\cmTC_04c49.exe
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c25b.dir\Debug\\" /Fd"cmTC_5c25b.dir\Debug\vc142.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCCompilerABI.c"
+  cmTC_5c25b.vcxproj -> C:\Users\teoru\_projects\.MY_PRJ\EmodjiCoder\project\CMakeFiles\CMakeTmp\Debug\cmTC_5c25b.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: C:/Users/teoru/_projects/.MY_PRJ/EmodjiCoder/project/CMakeFiles/CMakeTmp
 
-Run Build Command(s):E:/.Microsoft Visual Studio/MSBuild/Current/Bin/MSBuild.exe cmTC_6dbdb.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
+Run Build Command(s):E:/.Microsoft Visual Studio/MSBuild/Current/Bin/MSBuild.exe cmTC_cc73a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine версии 16.11.2+f32259642 для .NET Framework
 (C) Корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
   Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30138 для x64
   (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
   CMakeCXXCompilerABI.cpp
-  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6dbdb.dir\Debug\\" /Fd"cmTC_6dbdb.dir\Debug\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCXXCompilerABI.cpp"
-  cmTC_6dbdb.vcxproj -> C:\Users\teoru\_projects\.MY_PRJ\EmodjiCoder\project\CMakeFiles\CMakeTmp\Debug\cmTC_6dbdb.exe
+  cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cc73a.dir\Debug\\" /Fd"cmTC_cc73a.dir\Debug\vc142.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CMakeCXXCompilerABI.cpp"
+  cmTC_cc73a.vcxproj -> C:\Users\teoru\_projects\.MY_PRJ\EmodjiCoder\project\CMakeFiles\CMakeTmp\Debug\cmTC_cc73a.exe
 
 
 

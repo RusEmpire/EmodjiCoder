@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # set the project name and version
-project(TextRPG VERSION 0.0.0)
+project(EmojiCoder VERSION 0.0.0)
 
 # specify the C++ standard
 set(CMAKE_CXX_STANDARD 11)
@@ -15,4 +15,4 @@ file(GLOB SOURCES
     *.cpp
 )
 
-add_executable(TextRPG ${SOURCES})
+add_executable(EmojiCoder ${SOURCES})

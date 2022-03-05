@@ -4,13 +4,14 @@
 #include <fstream>
 #include <string> 
 
-class utf8_reader{
+class utf8{
 private:
     std::string filename;
     std::wstring data;
+
 public:
-    utf8_reader();
-    ~utf8_reader();
+    utf8();
+    ~utf8();
 
     void read_file(std::string file);
 
