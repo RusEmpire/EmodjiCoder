@@ -12,6 +12,12 @@ CMakeFiles/
 *.txt
 *.TXT
 *.filters
+*.tlog
+*.suo
+*.pdb
+*.recipe
+*.ilk
+*.user
 
 # Compiled Object files
 *.slo
