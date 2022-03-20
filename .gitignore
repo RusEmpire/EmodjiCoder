@@ -11,6 +11,8 @@
 CMakeFiles/
 *.txt
 *.TXT
+!CMakeLists.TXT
+!CMakeLists.txt
 *.filters
 *.tlog
 *.suo
